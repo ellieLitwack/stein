@@ -107,7 +107,7 @@ ampere = [current] = A = amp
 candela = [luminosity] = cd = candle
 gram = [mass] = g
 mole = [substance] = mol
-kelvin = [temperature] = K = degK = °K = degree_Kelvin = degreeK  # older names supported for compatibility
+kelvin = [temperature] = K = degK = degree_Kelvin = degreeK  # older names supported for compatibility
 radian = [] = rad
 bit = []
 count = []
@@ -212,7 +212,7 @@ synodic_month = 29.530589 * day = lunar_month  # approximate
 planck_time = (hbar * gravitational_constant / c ** 5) ** 0.5
 
 # Temperature
-degree_Rankine = 5 / 9 * kelvin; offset: 0 = °R = rankine = degR = degreeR
+degree_Rankine = 5 / 9 * kelvin = degR = degreeR
 atomic_unit_of_temperature = E_h / k = a_u_temp
 planck_temperature = (hbar * c ** 5 / gravitational_constant / k ** 2) ** 0.5
 
