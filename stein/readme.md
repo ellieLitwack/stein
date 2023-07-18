@@ -1,14 +1,14 @@
-# Switchableunits
-Switchableunits provides a wrapper around [Pint](https://github.com/hgrecco/pint) and zero overhead unit conversion factors. This allows for identifying unit errors during development and then removing the overhead of quantity objects during production.
+# Stein
+Stein provides a wrapper around [Pint](https://github.com/hgrecco/pint) and zero overhead unit conversion factors. This allows for identifying unit errors during development and then removing the overhead of quantity objects during production.
 
 ## Installation
 ```bash
-$ pip install switchableunits
+$ pip install stein
 ```
 
 ## Usage
 ```python
-from switchableunits import UnitSystem
+from stein import UnitSystem
 
 # Create a unit system
 US = UnitSystem(verbose=True)  # use verbose=True for Pint and verbose=False for zero overhead
