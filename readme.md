@@ -1,5 +1,5 @@
 # Stein
-    Stein provides a wrapper around [Pint](https://github.com/hgrecco/pint) and zero overhead unit conversion factors. This allows for identifying unit errors during development and then removing the overhead of quantity objects during production.
+Stein provides a wrapper around [Pint](https://github.com/hgrecco/pint) and zero overhead unit conversion factors. This allows for identifying unit errors during development and then removing the overhead of quantity objects during production.
 
 ## Installation
 ```bash
