@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/switchableunits.iml" filepath="$PROJECT_DIR$/.idea/switchableunits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stein.iml" filepath="$PROJECT_DIR$/.idea/stein.iml" />
     </modules>
   </component>
 </project>

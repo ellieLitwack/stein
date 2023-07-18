@@ -1,5 +1,5 @@
 import unittest
-from switchableunits import UnitSystem
+from stein import UnitSystem
 from math import isclose
 
 class UnitRegistryTests(unittest.TestCase):
